@@ -51,9 +51,6 @@ This repository is designed for beginners learning C# and Windows Forms (WinForm
   <img src="./image1.png" alt="App Screenshot" style="max-width:640px; width:100%; height:auto; border:1px solid #e1e4e8; border-radius:8px; box-shadow: 0 6px 18px rgba(32,33,36,0.08);" />
 </p>
 
-Notes:
-- Make sure `image1.png` exists at the repository root. If placed in a different folder, update the path: e.g., `./docs/image1.png`.
-- If GitHub doesn't render the image, check that the filename and case match exactly and that the file is committed.
 
 ---
 
@@ -147,3 +144,4 @@ Created by Achintha-999. Open an issue for questions or suggestions.
 ---
 
 Made with ❤️ and a little polish — icons, badges, and a clean layout to help beginners feel comfortable. Happy coding! 🚀
+
