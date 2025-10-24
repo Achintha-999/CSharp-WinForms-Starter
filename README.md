@@ -39,7 +39,7 @@ This project is aimed at complete beginners. The main goal is to show how to:
 ## Screenshot
 
 <p align="center">
-  <img src="./image1.png" alt="App Screenshot" style="max-width:100%;height:auto;border:1px solid #ddd;padding:6px;border-radius:6px;">
+  <img src="./image1.png" alt="App Screenshot" style="max-width:70%;height:auto;border:1px solid #ddd;padding:6px;border-radius:6px;">
 </p>
 
 Notes:
@@ -136,3 +136,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 Created by Achintha-999. For questions or suggestions open an issue or contact via GitHub.
 
 Happy coding! 🚀
+
