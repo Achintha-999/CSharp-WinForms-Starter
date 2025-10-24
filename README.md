@@ -30,7 +30,7 @@ WindowsFormsApp1/ ├── Form1.cs          # Main form logic ├── Progra
 ---
 
 ## 🖼️ Screenshot
-![App Screenshot](https://via.placeholder.com/600x400?text=Windows+Forms+App+Screenshot)
+![App Screenshot](<img src="./image1.png" alt="Introduction Animation" style="width: 680px; height: 480px; object-fit: cover;" />)
 
 ---
 
@@ -56,3 +56,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Happy Coding! 😊
+
